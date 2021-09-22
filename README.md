@@ -4,7 +4,7 @@
 - ❤️ My key values are curiosity, continuous learning and passion for what I do. Why data science is so amazing for me? 
 Because there is always a lot of new things to learn and to apply in practice!
 - 🌱 I’m currently working at adding to github my most favourite projects! And I in the process of learning model deployment 
-- 📫 In case of any questions you are welcome to contact me via telegram @tashatsar or [LinkedIn](#https://www.linkedin.com/in/natsarkova/)
+- 📫 In case of any questions you can contact me via telegram @tashatsar or [LinkedIn](#https://www.linkedin.com/in/natsarkova/)
 
 <!---
 tashatsar/tashatsar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
