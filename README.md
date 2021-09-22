@@ -1,6 +1,6 @@
 ### 👋 Hi and welcome here! I’m @tashatsar: a data scientist and just a simple human being 😊
 
-- 👀 I’m interested in ML, DS, Python and programming: have been working as a data scientist for more then three years
+- 👀 I’m interested in ML, DS, Python and programming: have been working as a data scientist for more than three years
 - ❤️ My key values are curiosity, continuous learning and passion for what I do. Why data science is so amazing for me? 
 Because there is always a lot of new things to learn and to apply in practice!
 - 🌱 I’m currently working at adding to github my most favourite projects! And I in the process of learning model deployment 
