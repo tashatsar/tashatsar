@@ -1,4 +1,4 @@
-### 👋 Hi and welcome here! I’m @tashatsar: a data scientist and just a simple human being 😊
+### 👋 Hi and welcome here! I’m Natasha: a data scientist and just a simple human being 😊
 
 - 👀 I’m interested in DS, MLOps, Python and programming: have been working in the field of Data Analysis, Data Science and MLOps for more than five years
 - ❤️ My key values are curiosity, continuous learning and passion for what I do. Why data science is so amazing for me? 
